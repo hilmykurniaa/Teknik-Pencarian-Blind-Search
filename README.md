@@ -3,12 +3,15 @@
 # Tugas
 1. Tentukan bagaimana algoritma BFS di atas dapat menentukan node ke 8, 6, dan 7.
 2. Ubahlah method static void main sehingga bentuk tree seperti Gambar 4.5 dapat dibentuk. Kemudian tentukan bagaimana algoritma BFS dapat menemukan node 5.
+   
    ![image](https://github.com/hilmykurniaa/Teknik-Pencarian-Blind-Search/assets/148704403/7a980ea6-b0f3-4282-bf03-13fcea3d74e1)
    
 4. Ubahlah method static void main sehingga bentuk tree seperti Gambar 4.6 dapat dibentuk. Kemudian tentukan bagaimana algoritma BFS dapat menemukan node 9.
+
    ![image](https://github.com/hilmykurniaa/Teknik-Pencarian-Blind-Search/assets/148704403/3ad03d6b-eb2b-4945-ad3d-5b80c224e575)
    
 6. Ubahlah kode program di atas sehingga bentuk tree seperti Gambar 4.7 dapat dibentuk. Kemudian tentukan bagaimana algoritma BFS dapat menemukan node C.
+
    ![image](https://github.com/hilmykurniaa/Teknik-Pencarian-Blind-Search/assets/148704403/0bf96b48-bddf-492b-88c8-1cc1ed268339)
 
 # Jawaban
