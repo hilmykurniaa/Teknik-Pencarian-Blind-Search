@@ -32,6 +32,7 @@
 12.	Hasil dari algoritma BFS adalah penemuan jarak terpendek dari node awal (n3) ke semua node lain dalam graf dan pengaturan node pendahulu untuk setiap node. Dengan informasi ini, Anda dapat menentukan jarak dari node awal (n3) ke node 8 (n8), node 6 (n6), dan node 7 (n7).
 
 Node 8 (n8) terhubung dengan node 6 (n6), yang terhubung dengan node 4 (n4), yang terhubung dengan node 3 (n3). Jarak dari n3 ke n4 adalah 1, jarak dari n4 ke n6 adalah 1, dan jarak dari n6 ke n8 adalah 1. Oleh karena itu, jarak dari n3 ke n8 adalah 3.
+
 Node 7 (n7) juga terhubung dengan node 6 (n6), yang terhubung dengan node 4 (n4), yang terhubung dengan node 3 (n3). Jarak dari n3 ke n4 adalah 1, jarak dari n4 ke n6 adalah 1, dan jarak dari n6 ke n7 adalah 1. Oleh karena itu, jarak dari n3 ke n7 juga adalah 3.
 
 # 2.  Cara algoritma BFS dapat menemukan node 5.
